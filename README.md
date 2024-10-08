@@ -19,4 +19,4 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NadavKahlon&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadavKahlon&layout=compact&theme=dark&exclude_repo=calretinin-positive-neuron-detection)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NadavKahlon&layout=compact&theme=dark&exclude_repo=calretinin-positive-neuron-detection&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
