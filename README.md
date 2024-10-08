@@ -13,7 +13,7 @@
 - I study for an M.Sc. in computer science.
 - I like learning new things, developing cool projects, and tackling difficult challenges.
 - My main interests are machine learning and cybersecurity.
-- I'm also interested in math, business management, economics and physics.
+- I'm also interested in math, psychology, business management, economics and physics.
 
 ### My Stats
 
