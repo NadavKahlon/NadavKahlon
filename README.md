@@ -1,6 +1,20 @@
-Hi :)
+# Hi I'm Nadav 👋
 
-I'm Nadav. I like learning new things, developing interestings projects, researching unfamiliar landscapes, tackling difficult challenges, and expanding my horizons. I'm interested in cybersecurity and machine learning.
+<a href="https://linkedin.com/in/nadav-kahlon-0831a0222">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/in/nadav-kahlon-0831a0222" />
+</a>
+<a href="mailto:nadavkahlon100@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="nadavkahlon100@gmail.com"  />
+</a>
 
-Email : nadavkahlon100@gmail.com \
-LinkedIn: https://www.linkedin.com/in/nadav-kahlon-0831a0222
+### About Me
+
+- I'm a 21 years old R&D engineer.
+- I study for an M.Sc. in computer science.
+- I like learning new things, developing cool projects, and tackling difficult challenges.
+- My main interests are machine learning and cybersecurity.
+- I'm also interested in math, buisness management, economics and physics.
+
+### My Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NadavKahlon&theme=dark&background=000000)](https://git.io/streak-stats)
