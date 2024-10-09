@@ -9,11 +9,11 @@
 
 ### About Me
 
-- I'm a 21 years old R&D engineer.
-- I study for an M.Sc. in computer science.
-- I like learning new things, developing cool projects, and tackling difficult challenges.
-- My main interests are machine learning and cybersecurity.
-- I'm also interested in math, psychology, management, economics and physics.
+- I'm a 21 years old R&D engineer
+- I study for an M.Sc. in computer science
+- I like learning new things, developing cool projects, and tackling difficult challenges
+- My main interests are machine learning and cybersecurity
+- I'm also interested in math, psychology, management, economics and physics
 
 ### My Stats
 
